@@ -19,7 +19,7 @@
 
 ---
 
-![Cat Hey]("assets/cat.gif")
+![Cat Hey](assets/cat.gif)
 
 
 ## Tech Stack
