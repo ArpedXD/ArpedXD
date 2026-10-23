@@ -19,7 +19,7 @@
 
 ---
 <p align="center">
-  <div style="width: 100%">![Cat Hey](assets/cat.gif) </div>
+  <img src="assets/cat.gif" alt="hey cat" width="100%" />
 </p>
 
 ## Tech Stack
