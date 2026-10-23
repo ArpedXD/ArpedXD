@@ -21,6 +21,10 @@
 
 ---
 
+<p align="center">
+  <img src="assets/cat.gif" width="100%" />
+</p>
+
 ## Tech Stack
 
 **Languages**
