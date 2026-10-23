@@ -6,18 +6,18 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| **StudentG** 🚧 *(in development)* | Student-focused group chat app: registration, login, group creation, member management, and real-time group messaging over WebSockets. Backend is split into API, service, repository, schema, and validation layers. | FastAPI, MySQL, JavaScript, WebSockets |
+| **StudentG**  *(in development)* | Student-focused group chat app: registration, login, group creation, member management, and real-time group messaging over WebSockets. Backend is split into API, service, repository, schema, and validation layers. | FastAPI, MySQL, JavaScript, WebSockets |
 | **SimpleChatBot** | Local AI chat application with account authentication and conversation management. Responses are generated locally through Ollama. Frontend and backend live in separate repositories. | FastAPI, MySQL, Ollama |
 | **CampusReservation** | Campus room reservation system with user accounts, room reservations, reservation status management, and an admin side for reviewing and managing reservations. | Python, FastAPI, MySQL |
-| **N5XT** 🤝 *(team project)* | Platform that brings five mini-games together under one interface. I worked on the HTML/CSS/JavaScript frontend, game interfaces, user customization, and integration with the backend API (accounts, email verification, game results, global leaderboard). | HTML, CSS, JavaScript |
+| **N5XT**  *(team project)* | Platform that brings five mini-games together under one interface. I worked on the HTML/CSS/JavaScript frontend, game interfaces, user customization, and integration with the backend API (accounts, email verification, game results, global leaderboard). | HTML, CSS, JavaScript |
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="170" alt="ArpedXD's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ArpedXD&show_icons=true&hide_border=true&theme=tokyonight" />
