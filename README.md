@@ -2,8 +2,6 @@
   <img src="assets/galaxy-banner.svg" alt="Animated galaxy banner" width="100%" />
 </p>
 
-<h1 align="center">Hiiiii</h1>
-
 <p align="center">
   Backend-focused developer building web apps with <b>Python</b>, <b>FastAPI</b> and <b>MySQL</b>.
 </p>
