@@ -18,9 +18,9 @@
 | **N5XT** *(team project)* | Platform that brings five mini-games together under one interface. I worked on the HTML/CSS/JavaScript frontend, game interfaces, user customization, and integration with the backend API (accounts, email verification, game results, global leaderboard). | HTML, CSS, JavaScript, Java, Spring Boot |
 
 ---
-
-![Cat Hey](assets/cat.gif)
-
+<p align="center">
+  <div style="width: 100%">![Cat Hey](assets/cat.gif) </div>
+</p>
 
 ## Tech Stack
 
