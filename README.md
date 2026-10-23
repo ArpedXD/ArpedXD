@@ -19,9 +19,8 @@
 
 ---
 
-<p align="center">
-  <img src="assets/cat.gif" width="100%" />
-</p>
+![Cat Hey]("assets/cat.gif")
+
 
 ## Tech Stack
 
